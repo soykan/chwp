@@ -1,3 +1,3 @@
-Python script for changing desktop wallpaper periodically.\n
+Python script for changing desktop wallpaper periodically.\r\n
 pillow and feh required.
 
